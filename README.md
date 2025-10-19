@@ -151,7 +151,7 @@ Comprehensive digital forensics and incident response tools
 
 ```bash
 # Clone the repository
-git clone https://github.com/fouadzulof/fouadbox.git
+git clone https://github.com/loals2sa/fouadbox.git
 
 # Navigate to directory
 cd fouadbox
