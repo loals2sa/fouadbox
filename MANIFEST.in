@@ -1,0 +1,11 @@
+include README.md
+include LICENSE
+include requirements.txt
+include CHANGELOG.md
+include CONTRIBUTING.md
+include SECURITY.md
+include QUICKSTART.md
+recursive-include tools *.py
+recursive-include images *
+global-exclude __pycache__
+global-exclude *.py[co]
